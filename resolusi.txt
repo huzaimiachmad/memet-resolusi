@@ -2,3 +2,4 @@ Memet Resolusi
 - Konsistem Belajar Pemrograman
 - Belajar Codeigniter
 - Belajar Laravel
+- Belajar Git & Github
